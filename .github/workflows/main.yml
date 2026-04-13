@@ -41,7 +41,7 @@ on:
 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://decrypt.thuthuatjb.com/download/MTQ5NTB8MTc3NjEwOTYwMHwwfDB8ZWU2Mjc1NzE?lang=vi"
         required: true
         type: string
 
